@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Benni-Stauder
+- 👀 I’m interested in Coding, Cars and Cycling
+- 🌱 I’m currently learning C++
